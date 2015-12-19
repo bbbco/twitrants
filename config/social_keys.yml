@@ -1,0 +1,14 @@
+# 2015-07-23 RICHARD:
+# THIS IS A SAMPLE FOR social_keys.yml which is git-ignored as it should be, because it will have your keys in it.
+# REMEMBER TO COPY THIS FILE TO social_keys.yml AND CHANGE THE KEYS IN THERE TO MATCH YOURS.
+development:
+  twitter_key: "YOUR_KEY"
+  twitter_secret: "YOUR_SECRET"
+
+test:
+  twitter_key: "YOUR_KEY"
+  twitter_secret: "YOUR_SECRET"
+
+production:
+  twitter_key:
+  twitter_secret:
